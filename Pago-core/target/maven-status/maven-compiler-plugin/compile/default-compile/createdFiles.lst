@@ -1,0 +1,3 @@
+co\unicauca\pago\core\PagoCore.class
+co\unicauca\pago\business\PagoService.class
+co\unicauca\pago\plugin\manager\PagoPluginManager.class
