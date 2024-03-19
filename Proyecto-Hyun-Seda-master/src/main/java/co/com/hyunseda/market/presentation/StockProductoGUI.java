@@ -4,13 +4,10 @@
  */
 package co.com.hyunseda.market.presentation;
 
-import co.com.hyunseda.market.entities.Category;
 import co.com.hyunseda.market.entities.Product;
 import co.com.hyunseda.market.service.ProductService;
 import co.com.hyunseda.market.service.ShoppingCartService;
 import java.awt.event.KeyEvent;
-import java.util.List;
-import java.util.Objects;
 import javax.swing.JOptionPane;
 
 /**
