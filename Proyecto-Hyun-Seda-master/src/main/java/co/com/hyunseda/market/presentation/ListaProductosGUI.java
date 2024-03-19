@@ -273,5 +273,6 @@ public class ListaProductosGUI extends javax.swing.JFrame implements Observer {
         lbImagen.setIcon(null);
         lbDescripcion.setText("");
         btnAniadir.setVisible(false);
+        cboCategories.setSelectedIndex(0);
     }
 }
